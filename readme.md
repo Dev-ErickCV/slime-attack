@@ -19,4 +19,4 @@ Juego desarrollado en Python utilizando Pygame.
 
 ```bash
 pip install pygame
-python "Juego de cuevas.py"
+python "slime-attack.py"
